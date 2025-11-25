@@ -1,0 +1,17 @@
+# Fichiers de build
+build/
+*.apk
+*.aab
+
+# Fichiers Android Studio
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers Gradle
+.gradle/
