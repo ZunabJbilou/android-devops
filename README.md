@@ -72,5 +72,8 @@ Ce TP a permis de maîtriser les concepts fondamentaux des pipelines CI/CD avec 
 - Déploiement automatique sur store
 - Intégration de quality gates
 - Analytics de performance
+##7. Test Pull Request
+- Modification pour tester le workflow GitHub Actions
+- Branche : feature/test-workflow
 
 ---
