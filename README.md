@@ -76,4 +76,11 @@ Ce TP a permis de maîtriser les concepts fondamentaux des pipelines CI/CD avec 
 - Modification pour tester le workflow GitHub Actions
 - Branche : feature/test-workflow
 
+## 7.Test Pull Request
+- Modification pour tester le workflow GitHub Actions
+- Branche : feature/test-workflow
+
+---
+
+
 ---
